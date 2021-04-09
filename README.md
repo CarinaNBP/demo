@@ -1,5 +1,3 @@
 #demo
 
 aprendendo GaiuiatHub
-
-teste
